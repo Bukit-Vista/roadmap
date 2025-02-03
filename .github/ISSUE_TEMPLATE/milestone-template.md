@@ -45,7 +45,5 @@ And here are some proposed action to encourage guests to give their review:
 - Feasibility: [whether the possible solution can be implemented or not]
 - Impact: [describe the outcome if we implement the solution]
 
-# MSM Links
-- [ ] [Pre-EPD]()
-- [ ] [Implementation]()
-- [ ] [Evaluation]()
+# MSM Link
+- [ ] [MSM Link]()
